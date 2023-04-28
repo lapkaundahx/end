@@ -7,7 +7,7 @@ body {
     color: #333;
     font-family: Arial, sans-serif;
 }
-  
+
 .name h1 {
     font-size: 35px;
     text-align: center;
@@ -29,7 +29,7 @@ main {
 }
 
 .container p {
-    font-size: 18px;
+    font-size: 25px;
     line-height: 1.5;
     margin-bottom: 30px;
     color: #ff69b4;
